@@ -1,4 +1,5 @@
 # GlideImageSizeResearch
+![alt tag](images/device-2017-01-19-151221.png)
 # 샘플 예제
 ```
 final ImageView image1 = (ImageView) findViewById(R.id.image1);
